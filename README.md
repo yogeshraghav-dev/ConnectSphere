@@ -47,13 +47,8 @@ It enables registered employees to collaborate via **text chat**, **audio/video 
 - Bcrypt for password hashing
 - Zod for validation
 
-### Other
-- [Docker](https://www.docker.com/) for deployment
-- [Nginx](https://www.nginx.com/) or Caddy for reverse proxy
-- [Coturn](https://github.com/coturn/coturn) for TURN server
-- AWS S3 or local storage for file uploads
 
----
+
 
 ## 📂 Project Structure
 
