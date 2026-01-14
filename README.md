@@ -1,6 +1,6 @@
 # ConnectSphere
 
-CloudAphere is a work-in-progress SaaS project that helps businesses **analyze and prioritize their own leads** so sales teams can focus on the most valuable prospects instead of wasting time on low-quality data.
+ConnectSphere is a work-in-progress SaaS project that helps businesses **analyze and prioritize their own leads** so sales teams can focus on the most valuable prospects instead of wasting time on low-quality data.
 
 The platform does **not generate or scrape leads**.  
 Users bring their own data (such as CSV exports or CRM data), and CloudAphere applies rule-based logic and analytics to score leads, suggest follow-up priority, and present clear dashboards.
